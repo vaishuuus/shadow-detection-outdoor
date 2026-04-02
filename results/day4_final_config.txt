@@ -1,0 +1,6 @@
+method=HSV
+v_upper=130
+s_lower=15
+open_size=5
+close_size=11
+mean_iou=0.4629

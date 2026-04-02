@@ -1,0 +1,18 @@
+# Data — too large for GitHub (download from Kaggle)
+data/ISTD/
+data/*.zip
+data/*.tar.gz
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Colab checkpoints
+*.ipynb_checkpoints
