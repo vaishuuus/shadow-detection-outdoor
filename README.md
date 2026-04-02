@@ -174,7 +174,7 @@ the Kaggle API.
 | OpenCV 4.8 | Image processing, colour conversion, morphology |
 | NumPy | Array operations, metric computation |
 | Matplotlib | All visualisations |
-| Google Colab | Development environment (free GPU) |
+| Google Co | Development environment (free GPU) |
 
 ---
 
@@ -192,4 +192,4 @@ the Kaggle API.
 
 ---
 
-*Built in 7 days as an end-to-end computer vision portfolio project.*
+* An end-to-end computer vision portfolio project.*
